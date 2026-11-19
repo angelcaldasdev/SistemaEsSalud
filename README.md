@@ -47,6 +47,9 @@ Este proyecto parte de un modelo base recibido en el curso y fue reconstruido pa
 ## Autor
 
 **Elber Nuñez Iguavel**
+
 **Angel Caldas Ocmín**
+
 **Milovan Rojas Romero**
+
 GitHub: [@angelcaldasdev](https://github.com/angelcaldasdev)
