@@ -1,5 +1,5 @@
 
-package pe.edu.upn.essalud.interfaz;
+package pe.edu.upn.essalud.interfez;
 
 // Herramientas para organizar los componentes.
 import java.awt.BorderLayout;
