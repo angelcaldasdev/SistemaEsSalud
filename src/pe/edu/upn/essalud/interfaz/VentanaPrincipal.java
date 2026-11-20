@@ -1,5 +1,5 @@
 
-package pe.edu.upn.essalud.interfez;
+package pe.edu.upn.essalud.interfaz;
 
 // Importaciones para el diseño visual.
 import java.awt.*;
